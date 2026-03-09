@@ -4,7 +4,7 @@
 
 **Devoir n°7** "Concevoir une base de données avec MySQL".
 
-Projet SQL réalisé dans le cadre de la formation **Développeur Web et Web Mobile** au _Centre Européen de Formation_.
+Projet SQL réalisé par **Cédric Kernec** | **PixSeed** dans le cadre de la formation **Développeur Web et Web Mobile** au _Centre Européen de Formation_.
 
 ---
 
@@ -87,7 +87,7 @@ queries.sql
 1. Cloner le dépôt :
    
 ```
-git clone https://github.com/cedrickernec/kernec-cedric-devoir-7-tifosi.git
+git clone https://github.com/pixseed/devoir-7-tifosi.git
 ```
 3. Ouvrir MySQL Workbench.
 4. Exécuter le script de création de la base :
